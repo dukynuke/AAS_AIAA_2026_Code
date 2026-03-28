@@ -41,17 +41,4 @@ The current benchmark uses:
 
 This study is connected to a Blender-derived synthetic proximity-operations environment used in prior relative-navigation work.
 
-## File structure
 
-Example structure:
-
-```text
-.
-├── main_closed_loop_case.m
-├── adaptive_only_ablation.m
-├── Figures/
-│   ├── aas1.png
-│   ├── aas2.png
-│   ├── aas3.png
-│   └── aas4.png
-└── README.md
